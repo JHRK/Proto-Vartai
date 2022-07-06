@@ -4,5 +4,63 @@
 }
 
 header{
-    background-color: #2bae68;
+    background-color: #ff3030;
+    font-family: Permanent Marker;
+    color: #EBEBEB;
+    width: 100%;
+    height: 40%;
+    font-size: 44px;
+
+}
+
+h1{
+    padding-left: 40%;
+}
+
+ h2{
+    font-family: Roboto Slab;
+    color: #EBEBEB;
+    font-size: 22px;
+    padding-left: 43%;
+}
+
+main{
+    background-color: #EBEBEB;
+    color: #1E3854;
+    font-family: Roboto Slab;
+}
+
+img{
+    max-width: 25%;
+    max-height: 25%;
+    padding-left: 38%;
+    padding-top: 5%;
+}
+
+footer{
+    height: 25%;
+    background-color: #1E3854;
+    font-family: Roboto Slab;
+    color: #EBEBEB;
+    font-size: 22px;
+}
+
+
+h3{
+    padding-left: 45%;
+    padding-bottom: 2%;
+    padding-top: 5%;
+    font-size : 22px;
+}
+
+p{
+    text-align: justify;
+    padding-left: 35%;
+    display: block;
+    width: 30%;
+}
+
+h4{
+    padding-top: 3%;
+    padding-left: 6%;
 }
